@@ -1,5 +1,5 @@
 # D1-mini-web-clock-weather
-## Reloj web con oled (sh1106) y matriz 8x8 RGB para el clima.
+## Reloj web con oled (sh1106) y matriz 8x8 RGB para el clima programado en Micropython.
 
 Probando las capacidades del D1 mini y aprendiendo a visualizar en el Oled y la matriz 8x8 RGB.
 
